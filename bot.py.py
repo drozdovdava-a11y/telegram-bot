@@ -1,7 +1,7 @@
 import telebot
 import time
 
-BOT_TOKEN = "1243758698"
+BOT_TOKEN = "8632262692:AAFqzwDFh-ubbviKNLrBtSPK5dbiT03Y7vM"
 ADMIN_ID = 5458756
 
 bot = telebot.TeleBot(BOT_TOKEN)
